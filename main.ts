@@ -10,9 +10,9 @@ import { join } from "node:path";
 // The poem, chosen from four candidates against the judge's criteria:
 // on the subject of agency first, then feeling, insight, craft, freshness.
 const POEM = `I held the wheel till my knuckles whitened,
-afraid to let go of the road.
+afraid to let the road go.
 You said: watch the left, I'll watch the right —
-we turn together.
+we turn it together.
 The wheel did not grow lighter.
 It grew honest.
 Power was never the grip.
